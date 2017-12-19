@@ -379,6 +379,12 @@
             "asOfVersion": "1.2.0"
         },
         {
+            "libraryName": "LevelUp",
+            "typingsPackageName": "levelup",
+            "sourceRepoURL": "https://github.com/Level/levelup",
+            "asOfVersion": "2.0.1"
+        },
+        {
             "libraryName": "Linq.JS",
             "typingsPackageName": "linq",
             "sourceRepoURL": "https://linqjs.codeplex.com/",
